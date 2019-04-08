@@ -1,0 +1,20 @@
+C:\Users\mrata\OneDrive\Desktop\Projekt_Dropbox\Projekt_Dropbox\Serwer\Serwer\obj\Debug\Serwer.csprojResolveAssemblyReference.cache
+C:\Users\mrata\OneDrive\Desktop\Projekt_Dropbox\Projekt_Dropbox\Serwer\Serwer\obj\Debug\Serwer.Form1.resources
+C:\Users\mrata\OneDrive\Desktop\Projekt_Dropbox\Projekt_Dropbox\Serwer\Serwer\obj\Debug\Serwer.Properties.Resources.resources
+C:\Users\mrata\OneDrive\Desktop\Projekt_Dropbox\Projekt_Dropbox\Serwer\Serwer\obj\Debug\Serwer.csproj.GenerateResource.cache
+C:\Users\mrata\OneDrive\Desktop\Projekt_Dropbox\Projekt_Dropbox\Serwer\Serwer\obj\Debug\Serwer.csproj.CoreCompileInputs.cache
+C:\Users\mrata\OneDrive\Desktop\Projekt_Dropbox\Projekt_Dropbox\Serwer\Serwer\bin\Debug\Serwer.exe.config
+C:\Users\mrata\OneDrive\Desktop\Projekt_Dropbox\Projekt_Dropbox\Serwer\Serwer\bin\Debug\Serwer.exe
+C:\Users\mrata\OneDrive\Desktop\Projekt_Dropbox\Projekt_Dropbox\Serwer\Serwer\bin\Debug\Serwer.pdb
+C:\Users\mrata\OneDrive\Desktop\Projekt_Dropbox\Projekt_Dropbox\Serwer\Serwer\obj\Debug\Serwer.exe
+C:\Users\mrata\OneDrive\Desktop\Projekt_Dropbox\Projekt_Dropbox\Serwer\Serwer\obj\Debug\Serwer.pdb
+C:\Users\mrata\OneDrive\Desktop\Monika Sikora\Projekt_Dropbox\Projekt_Dropbox\Serwer\Serwer\bin\Debug\Serwer.exe.config
+C:\Users\mrata\OneDrive\Desktop\Monika Sikora\Projekt_Dropbox\Projekt_Dropbox\Serwer\Serwer\bin\Debug\Serwer.exe
+C:\Users\mrata\OneDrive\Desktop\Monika Sikora\Projekt_Dropbox\Projekt_Dropbox\Serwer\Serwer\bin\Debug\Serwer.pdb
+C:\Users\mrata\OneDrive\Desktop\Monika Sikora\Projekt_Dropbox\Projekt_Dropbox\Serwer\Serwer\obj\Debug\Serwer.csprojResolveAssemblyReference.cache
+C:\Users\mrata\OneDrive\Desktop\Monika Sikora\Projekt_Dropbox\Projekt_Dropbox\Serwer\Serwer\obj\Debug\Serwer.Form1.resources
+C:\Users\mrata\OneDrive\Desktop\Monika Sikora\Projekt_Dropbox\Projekt_Dropbox\Serwer\Serwer\obj\Debug\Serwer.Properties.Resources.resources
+C:\Users\mrata\OneDrive\Desktop\Monika Sikora\Projekt_Dropbox\Projekt_Dropbox\Serwer\Serwer\obj\Debug\Serwer.csproj.GenerateResource.cache
+C:\Users\mrata\OneDrive\Desktop\Monika Sikora\Projekt_Dropbox\Projekt_Dropbox\Serwer\Serwer\obj\Debug\Serwer.csproj.CoreCompileInputs.cache
+C:\Users\mrata\OneDrive\Desktop\Monika Sikora\Projekt_Dropbox\Projekt_Dropbox\Serwer\Serwer\obj\Debug\Serwer.exe
+C:\Users\mrata\OneDrive\Desktop\Monika Sikora\Projekt_Dropbox\Projekt_Dropbox\Serwer\Serwer\obj\Debug\Serwer.pdb
